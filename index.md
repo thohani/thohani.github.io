@@ -9,3 +9,6 @@ Da denke ich mir jetzt nichts tolles aus, Hauptsache Text!
 * Trait 3
 * Trait n
 
+As the character quotes:
+
+> The mountie always gets his man!
